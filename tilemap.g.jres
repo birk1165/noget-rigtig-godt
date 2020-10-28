@@ -9,6 +9,11 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
+    "tile2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4O4AAAAAAADg7u7uAAAAAADu7u4AAAAA4O7u7nB3FxER7u7ucHcXERHu7u5wdxcREe7u7gAAAADg7u7uAAAAAADu7u4AAAAA4O7u7gAAAADg7u7uAAAAAODuAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
     "level": {
         "id": "level",
         "mimeType": "application/mkcd-tilemap",
