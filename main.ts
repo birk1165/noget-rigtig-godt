@@ -127,7 +127,7 @@ let shark = sprites.create(img`
     ........................
     ........................
     ........................
-    `, SpriteKind.Player)
+    `, SpriteKind.Enemy)
 tiles.placeOnRandomTile(shark, sprites.builtin.coral1)
 shark.x += 14
 game.onUpdate(function () {
@@ -229,10 +229,5 @@ game.onUpdate(function () {
             . . . . f f f f f f f f f f . . 
             . . . . . f f . . . f f f . . . 
             `)
-    }
-})
-game.onUpdate(function () {
-    if (motherbib.y > 200) {
-        game.over(false)
     }
 })
